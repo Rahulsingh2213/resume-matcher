@@ -1,0 +1,33 @@
+John Doe
+john.doe@email.com | +1-555-123-4567
+
+SUMMARY
+Full Stack Software Engineer with 5 years of experience building scalable web applications and microservices.
+
+EXPERIENCE
+
+Senior Software Engineer - TechCorp Inc
+Jan 2021 - Present
+- Built REST APIs using Node.js and Express
+- Developed microservices architecture with Docker and Kubernetes
+- Worked with React frontend and PostgreSQL database
+- Implemented CI/CD pipelines using Jenkins and GitHub Actions
+
+Software Engineer - StartupXYZ
+Jun 2019 - Dec 2020
+- Developed backend services in Java and Spring Boot
+- Worked with MySQL and MongoDB databases
+- Used Kafka for event-driven architecture
+- Wrote unit tests using Jest
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python
+Frontend: React, Angular, HTML, CSS
+Backend: Node.js, Express, Spring Boot
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+DevOps: Docker, Kubernetes, Jenkins, AWS
+Tools: Git, Agile, Scrum, REST API, Kafka, Microservices
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University, 2019

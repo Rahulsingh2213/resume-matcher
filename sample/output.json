@@ -1,0 +1,256 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@email.com",
+  "phone": "+1-555-123-4567",
+  "yearOfExperience": 5,
+  "resumeSkills": [
+    "github actions",
+    "microservices",
+    "spring boot",
+    "javascript",
+    "typescript",
+    "postgresql",
+    "kubernetes",
+    "full stack",
+    "rest api",
+    "angular",
+    "node.js",
+    "express",
+    "mongodb",
+    "jenkins",
+    "python",
+    "spring",
+    "docker",
+    "devops",
+    "react",
+    "mysql",
+    "redis",
+    "ci/cd",
+    "kafka",
+    "agile",
+    "scrum",
+    "java",
+    "html",
+    "rest",
+    "jest",
+    "css",
+    "aws",
+    "git"
+  ],
+  "matchingJobs": [
+    {
+      "jobId": "JD001",
+      "role": "Full Stack Engineer (Capgemini)",
+      "salary": "compensation range for this role is: 61087 - 104364",
+      "requiredExperience": null,
+      "aboutRole": "Should have 7 years of strong handson experience with Core Java Spring Boot.",
+      "skillsAnalysis": [
+        {
+          "skill": "microservices",
+          "presentInResume": true
+        },
+        {
+          "skill": "spring boot",
+          "presentInResume": true
+        },
+        {
+          "skill": "sql server",
+          "presentInResume": false
+        },
+        {
+          "skill": "kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "rest api",
+          "presentInResume": true
+        },
+        {
+          "skill": "angular",
+          "presentInResume": true
+        },
+        {
+          "skill": "spring",
+          "presentInResume": true
+        },
+        {
+          "skill": "docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "react",
+          "presentInResume": true
+        },
+        {
+          "skill": "kafka",
+          "presentInResume": true
+        },
+        {
+          "skill": "java",
+          "presentInResume": true
+        },
+        {
+          "skill": "rest",
+          "presentInResume": true
+        },
+        {
+          "skill": "sql",
+          "presentInResume": false
+        },
+        {
+          "skill": "jenkins",
+          "presentInResume": true
+        },
+        {
+          "skill": "python",
+          "presentInResume": true
+        },
+        {
+          "skill": "devops",
+          "presentInResume": true
+        },
+        {
+          "skill": "azure",
+          "presentInResume": false
+        },
+        {
+          "skill": "ci/cd",
+          "presentInResume": true
+        },
+        {
+          "skill": "ai/ml",
+          "presentInResume": false
+        },
+        {
+          "skill": "ml",
+          "presentInResume": false
+        }
+      ],
+      "matchingScore": 75
+    },
+    {
+      "jobId": "JD003",
+      "role": "Software Engineer (SpaceX Full Stack)",
+      "salary": "$120,000.00 - $145,000.00",
+      "requiredExperience": 5,
+      "aboutRole": "Expertise in C#, .NET, SQL, HTML, CSS, AngularJS, TypeScript.",
+      "skillsAnalysis": [
+        {
+          "skill": "unit testing",
+          "presentInResume": false
+        },
+        {
+          "skill": "typescript",
+          "presentInResume": true
+        },
+        {
+          "skill": "postgresql",
+          "presentInResume": true
+        },
+        {
+          "skill": "angularjs",
+          "presentInResume": false
+        },
+        {
+          "skill": "python",
+          "presentInResume": true
+        },
+        {
+          "skill": "docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "ci/cd",
+          "presentInResume": true
+        },
+        {
+          "skill": "html",
+          "presentInResume": true
+        },
+        {
+          "skill": ".net",
+          "presentInResume": false
+        },
+        {
+          "skill": "css",
+          "presentInResume": true
+        },
+        {
+          "skill": "sql",
+          "presentInResume": false
+        },
+        {
+          "skill": "c#",
+          "presentInResume": false
+        },
+        {
+          "skill": "c",
+          "presentInResume": false
+        }
+      ],
+      "matchingScore": 54
+    },
+    {
+      "jobId": "JD002",
+      "role": "Software Engineer (Astra)",
+      "salary": "$130,000 - $160,000 per year",
+      "requiredExperience": 3,
+      "aboutRole": "3+ years of experience in software engineering, including production-level Python development.",
+      "skillsAnalysis": [
+        {
+          "skill": "kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "protobuf",
+          "presentInResume": false
+        },
+        {
+          "skill": "python",
+          "presentInResume": true
+        },
+        {
+          "skill": "docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "rest",
+          "presentInResume": true
+        },
+        {
+          "skill": "grpc",
+          "presentInResume": false
+        },
+        {
+          "skill": "json",
+          "presentInResume": false
+        },
+        {
+          "skill": "yaml",
+          "presentInResume": false
+        },
+        {
+          "skill": "aws",
+          "presentInResume": true
+        },
+        {
+          "skill": "typescript",
+          "presentInResume": true
+        },
+        {
+          "skill": "c++",
+          "presentInResume": false
+        },
+        {
+          "skill": "go",
+          "presentInResume": false
+        },
+        {
+          "skill": "c",
+          "presentInResume": false
+        }
+      ],
+      "matchingScore": 46
+    }
+  ]
+}

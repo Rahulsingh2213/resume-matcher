@@ -1,0 +1,6 @@
+const SKILLS = [
+  // Languages
+  "javascript", "typescript", "python", "java", "c", "c++", "c#", "rust", "go","ruby", "php", "swift", "kotlin", "scala", "r", "matlab", "bash", "shell","fortran", "hack","react", "angular", "angularjs", "vue", "html", "css", "jquery", "nextjs","redux", "tailwind", "bootstrap", "sass", "webpack","nodejs", "node.js", "express", "spring", "spring boot", "django", "flask","fastapi", "rails", "laravel", ".net", "asp.net","mysql", "postgresql", "mongodb", "redis", "sqlite", "oracle", "mssql","sql server", "dynamodb", "cassandra", "elasticsearch", "kibana", "logstash","docker", "kubernetes", "jenkins", "terraform", "ansible", "chef", "puppet","aws", "azure", "gcp", "google cloud", "ci/cd", "gitlab", "github actions","prometheus", "grafana", "rest", "rest api", "graphql", "grpc", "microservices", "kafka", "rabbitmq","activemq", "websocket", "soap","machine learning", "deep learning", "pytorch", "tensorflow", "scikit-learn","nlp", "computer vision", "ai/ml", "ml","unit testing", "jest", "mocha", "selenium", "cypress", "tdd", "bdd", "git", "svn", "clearcase", "agile", "scrum", "kanban", "jira", "confluence","sdlc", "linux", "unix", "windows", "fpga", "embedded", "rtos","mpi", "openmp", "hpc", "sql", "json", "yaml", "xml", "protobuf","elk stack", "full stack", "devops", "devsecops"
+];
+
+module.exports = { SKILLS };
